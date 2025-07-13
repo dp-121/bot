@@ -1,0 +1,866 @@
+{
+    "Shelly": {
+        "bio": "Starter brawler with a powerful shotgun blast. Dominates in close-range combat and bush-heavy maps.",
+        "role": "Close-range Burst",
+        "starPowers": [
+            "Shell Shock",
+            "Band-Aid"
+        ],
+        "gadgets": [
+            "Fast Forward",
+            "Clay Pigeons"
+        ],
+        "bestMaps": [
+            "Cavern Churn",
+            "Backyard Bowl"
+        ]
+    },
+    "Nita": {
+        "bio": "Controls the battlefield with her bear, Bruce. Great for area denial and sustained pressure.",
+        "role": "Summoner / Area Control",
+        "starPowers": [
+            "Bear With Me",
+            "Hyper Bear"
+        ],
+        "gadgets": [
+            "Bear Paws",
+            "Faux Fur"
+        ],
+        "bestMaps": [
+            "Double Trouble",
+            "Sneaky Fields"
+        ]
+    },
+    "Colt": {
+        "bio": "Sharp-shooting lane brawler with strong damage at long range. Great in open maps.",
+        "role": "Sharpshooter",
+        "starPowers": [
+            "Slick Boots",
+            "Magnum Special"
+        ],
+        "gadgets": [
+            "Speedloader",
+            "Silver Bullet"
+        ],
+        "bestMaps": [
+            "Shooting Star",
+            "Kaboom Canyon"
+        ]
+    },
+    "Bull": {
+        "bio": "Tanky close-range fighter with a devastating dash. Loves bushes and enclosed maps.",
+        "role": "Tank / Brawl Ball Rusher",
+        "starPowers": [
+            "Berserker",
+            "Tough Guy"
+        ],
+        "gadgets": [
+            "T-Bone Injector",
+            "Stomper"
+        ],
+        "bestMaps": [
+            "Cavern Churn",
+            "Backyard Bowl"
+        ]
+    },
+    "Jessie": {
+        "bio": "Ricochet-based shooter with a turret that controls space and lanes.",
+        "role": "Turret Control / Support",
+        "starPowers": [
+            "Energize",
+            "Shocky"
+        ],
+        "gadgets": [
+            "Spark Plug",
+            "Recoil Spring"
+        ],
+        "bestMaps": [
+            "Hardrock Mine",
+            "Split"
+        ]
+    },
+    "Brock": {
+        "bio": "Rocket launcher specialist with long-range splash damage and mobility.",
+        "role": "Sniper / Area Denial",
+        "starPowers": [
+            "Incendiary",
+            "Rocket No. Four"
+        ],
+        "gadgets": [
+            "Rocket Laces",
+            "Rocket Fuel"
+        ],
+        "bestMaps": [
+            "Shooting Star",
+            "Open Zone"
+        ]
+    },
+    "Dynamike": {
+        "bio": "Explosive thrower with strong map control in tight spaces.",
+        "role": "Thrower / Burst",
+        "starPowers": [
+            "Dyna-Jump",
+            "Demolition"
+        ],
+        "gadgets": [
+            "Fidget Spinner",
+            "Satchel Charge"
+        ],
+        "bestMaps": [
+            "Cavern Churn",
+            "Hot Potato"
+        ]
+    },
+    "Bo": {
+        "bio": "Strategic scout and trap-layer with wide attack range.",
+        "role": "Vision Control / Utility",
+        "starPowers": [
+            "Circling Eagle",
+            "Snare a Bear"
+        ],
+        "gadgets": [
+            "Super Totem",
+            "Tripwire"
+        ],
+        "bestMaps": [
+            "Hardrock Mine",
+            "Shooting Star"
+        ]
+    },
+    "Tick": {
+        "bio": "Annoying area-denial thrower with self-destruct capability.",
+        "role": "Thrower / Zoning",
+        "starPowers": [
+            "Well Oiled",
+            "Automa-Tick Reload"
+        ],
+        "gadgets": [
+            "Last Hurrah",
+            "Backup Mine"
+        ],
+        "bestMaps": [
+            "Hot Potato",
+            "Ring of Fire"
+        ]
+    },
+    "8-Bit": {
+        "bio": "High damage and low mobility bot with a damage-boosting turret.",
+        "role": "Support Damage / Anchor",
+        "starPowers": [
+            "Boosted Booster",
+            "Plugged In"
+        ],
+        "gadgets": [
+            "Cheat Cartridge",
+            "Reload Station"
+        ],
+        "bestMaps": [
+            "Layer Cake",
+            "Dry Season"
+        ]
+    },
+    "EMZ": {
+        "bio": "Social media zombie with consistent AoE damage over time.",
+        "role": "Area Control / Anti-Tank",
+        "starPowers": [
+            "Bad Karma",
+            "Hype"
+        ],
+        "gadgets": [
+            "Friendzoner",
+            "Acid Spray"
+        ],
+        "bestMaps": [
+            "Ring of Fire",
+            "Dueling Beetles"
+        ]
+    },
+    "El Primo": {
+        "bio": "Luchador with high health and a super-powered leap that can initiate fights.",
+        "role": "Tank / Initiator",
+        "starPowers": [
+            "El Fuego",
+            "Meteor Rush"
+        ],
+        "gadgets": [
+            "Suplex Supplement",
+            "Asteroid Belt"
+        ],
+        "bestMaps": [
+            "Backyard Bowl",
+            "Hot Potato"
+        ]
+    },
+    "Barley": {
+        "bio": "Bottle-throwing bartender with zoning and splash damage.",
+        "role": "Thrower / Area Denial",
+        "starPowers": [
+            "Medical Use",
+            "Stellar Spill"
+        ],
+        "gadgets": [
+            "Sticky Syrup Mixer",
+            "Herbal Tonic"
+        ],
+        "bestMaps": [
+            "Kaboom Canyon",
+            "Heist Zone"
+        ]
+    },
+    "Poco": {
+        "bio": "Strumming healer who supports allies while chipping at enemies.",
+        "role": "Support / Healer",
+        "starPowers": [
+            "Da Capo!",
+            "Protective Tunes"
+        ],
+        "gadgets": [
+            "Tuning Fork",
+            "Encore"
+        ],
+        "bestMaps": [
+            "Split",
+            "Center Stage"
+        ]
+    },
+    "Rosa": {
+        "bio": "Botanical boxer with a defensive super and strong brawling ability.",
+        "role": "Tank / Control",
+        "starPowers": [
+            "Plant Life",
+            "Thorny Gloves"
+        ],
+        "gadgets": [
+            "Grow Light",
+            "Unfriendly Bushes"
+        ],
+        "bestMaps": [
+            "Cavern Churn",
+            "Ring of Fire"
+        ]
+    },
+    "Carl": {
+        "bio": "Pickaxe-slinging miner with strong mobility and splash damage.",
+        "role": "Mid Control / Hybrid",
+        "starPowers": [
+            "Power Throw",
+            "Protective Pirouette"
+        ],
+        "gadgets": [
+            "Heat Ejector",
+            "Flying Hook"
+        ],
+        "bestMaps": [
+            "Hardrock Mine",
+            "Kaboom Canyon"
+        ]
+    },
+    "Jacky": {
+        "bio": "Builder brawler who generates area damage and absorbs hits.",
+        "role": "Tank / AoE",
+        "starPowers": [
+            "Counter Crush",
+            "Hard Hat"
+        ],
+        "gadgets": [
+            "Rebuild",
+            "Pneumatic Booster"
+        ],
+        "bestMaps": [
+            "Gem Fort",
+            "Cavern Churn"
+        ]
+    },
+    "Gus": {
+        "bio": "Haunted healer with passive support and spirit buffs.",
+        "role": "Support / Utility",
+        "starPowers": [
+            "Spirit Animal",
+            "Soulmates"
+        ],
+        "gadgets": [
+            "Kinetic Lamp",
+            "Deny"
+        ],
+        "bestMaps": [
+            "Brawl Ball",
+            "Dueling Beetles"
+        ]
+    },
+    "Piper": {
+        "bio": "Sniper with high burst damage who excels in long-range combat and open maps.",
+        "role": "Sniper / Burst",
+        "starPowers": [
+            "Ambush",
+            "Snappy Sniping"
+        ],
+        "gadgets": [
+            "Auto Aimer",
+            "Homemade Recipe"
+        ],
+        "bestMaps": [
+            "Shooting Star",
+            "Layer Cake"
+        ]
+    },
+    "Pam": {
+        "bio": "Durable support brawler with healing turret and consistent AoE chip damage.",
+        "role": "Support / Tanky Control",
+        "starPowers": [
+            "Mama's Hug",
+            "Mama's Squeeze"
+        ],
+        "gadgets": [
+            "Pulse Modulator",
+            "Scrapsucker"
+        ],
+        "bestMaps": [
+            "Ring of Fire",
+            "Gem Fort"
+        ]
+    },
+    "Frank": {
+        "bio": "High health brawler with a powerful stun and splash attacks.",
+        "role": "Tank / Crowd Control",
+        "starPowers": [
+            "Power Grab",
+            "Sponge"
+        ],
+        "gadgets": [
+            "Active Noise Canceling",
+            "Irresistible Attraction"
+        ],
+        "bestMaps": [
+            "Cavern Churn",
+            "Backyard Bowl"
+        ]
+    },
+    "Bibi": {
+        "bio": "Fast-moving melee fighter with knockback and bubble projectile.",
+        "role": "Bruiser / Mobility",
+        "starPowers": [
+            "Home Run",
+            "Batting Stance"
+        ],
+        "gadgets": [
+            "Vitamin Booster",
+            "Sticky Syrup Mix"
+        ],
+        "bestMaps": [
+            "Center Stage",
+            "Gem Fort"
+        ]
+    },
+    "Bea": {
+        "bio": "Bee-slinging sniper with high precision and supercharged shots.",
+        "role": "Sniper / Utility",
+        "starPowers": [
+            "Insta Beeload",
+            "Honeycomb"
+        ],
+        "gadgets": [
+            "Honey Molasses",
+            "Sticky Syrup Mix"
+        ],
+        "bestMaps": [
+            "Shooting Star",
+            "Open Zone"
+        ]
+    },
+    "Nani": {
+        "bio": "Techy sharpshooter with a controllable Super drone named Peep.",
+        "role": "Precision / Burst",
+        "starPowers": [
+            "Autofocus",
+            "Tempered Steel"
+        ],
+        "gadgets": [
+            "Warp Blast",
+            "Return to Sender"
+        ],
+        "bestMaps": [
+            "Layer Cake",
+            "Kaboom Canyon"
+        ]
+    },
+    "Edgar": {
+        "bio": "Quick and elusive brawler who jumps into fights and self-heals.",
+        "role": "Assassin / Aggressive Flanker",
+        "starPowers": [
+            "Hard Landing",
+            "Fisticuffs"
+        ],
+        "gadgets": [
+            "Let's Fly",
+            "Hard Knock Life"
+        ],
+        "bestMaps": [
+            "Backyard Bowl",
+            "Sneaky Fields"
+        ]
+    },
+    "Spike": {
+        "bio": "Cactus-flinging menace with spike explosion damage and area denial.",
+        "role": "Area Damage / Control",
+        "starPowers": [
+            "Fertilize",
+            "Curveball"
+        ],
+        "gadgets": [
+            "Popping Pincushion",
+            "Life Plant"
+        ],
+        "bestMaps": [
+            "Hot Potato",
+            "Ring of Fire"
+        ]
+    },
+    "Crow": {
+        "bio": "Toxic assassin who chips away enemies with poison and aerial mobility.",
+        "role": "Assassin / Harassment",
+        "starPowers": [
+            "Extra Toxic",
+            "Carrion Crow"
+        ],
+        "gadgets": [
+            "Defense Booster",
+            "Slowing Toxin"
+        ],
+        "bestMaps": [
+            "Sneaky Fields",
+            "Kaboom Canyon"
+        ]
+    },
+    "Leon": {
+        "bio": "Trickster assassin who uses invisibility to burst squishy targets.",
+        "role": "Assassin / Stealth",
+        "starPowers": [
+            "Smoke Trails",
+            "Invisible Heal"
+        ],
+        "gadgets": [
+            "Clone Projector",
+            "Lollipop Drop"
+        ],
+        "bestMaps": [
+            "Backyard Bowl",
+            "Layer Cake"
+        ]
+    },
+    "Sandy": {
+        "bio": "Sleepy mystic with a sandstorm zone and passive chip damage.",
+        "role": "Support / Vision Control",
+        "starPowers": [
+            "Healing Winds",
+            "Rude Sands"
+        ],
+        "gadgets": [
+            "Sleep Stimulator",
+            "Sweet Dreams"
+        ],
+        "bestMaps": [
+            "Ring of Fire",
+            "Split"
+        ]
+    },
+    "Meg": {
+        "bio": "Tech-savvy teen with a mech transformation and versatile attacks.",
+        "role": "Transformation / Utility DPS",
+        "starPowers": [
+            "Jolting Volts",
+            "Self Destruct"
+        ],
+        "gadgets": [
+            "Toolbox",
+            "Second Stage"
+        ],
+        "bestMaps": [
+            "Center Stage",
+            "Open Zone"
+        ]
+    },
+    "Gale": {
+        "bio": "Handy janitor with a wind-powered arsenal and pushback control.",
+        "role": "Support / Zoner",
+        "starPowers": [
+            "Blustery Blow",
+            "Freezing Snow"
+        ],
+        "gadgets": [
+            "Spring Ejector",
+            "Twister"
+        ],
+        "bestMaps": [
+            "Gem Fort",
+            "Split"
+        ]
+    },
+    "Surge": {
+        "bio": "Hype-fueled robot that upgrades during battle and dominates lane control.",
+        "role": "Lane Control / Hybrid",
+        "starPowers": [
+            "To The Max!",
+            "Serve Ice Cold"
+        ],
+        "gadgets": [
+            "Power Surge",
+            "Power Shield"
+        ],
+        "bestMaps": [
+            "Layer Cake",
+            "Kaboom Canyon"
+        ]
+    },
+    "Lou": {
+        "bio": "Snow-cone machine with slippery attacks and freeze mechanics.",
+        "role": "Area Denial / Control",
+        "starPowers": [
+            "Supercool",
+            "Hypothermia"
+        ],
+        "gadgets": [
+            "Cryo Syrup",
+            "Ice Block"
+        ],
+        "bestMaps": [
+            "Ring of Fire",
+            "Hot Potato"
+        ]
+    },
+    "Ruffs": {
+        "bio": "Space commander who buffs teammates and drops cover.",
+        "role": "Support / Utility",
+        "starPowers": [
+            "Air Superiority",
+            "Field Promotion"
+        ],
+        "gadgets": [
+            "Take Cover",
+            "Sonic Bark"
+        ],
+        "bestMaps": [
+            "Gem Fort",
+            "Open Zone"
+        ]
+    },
+    "Belle": {
+        "bio": "Sharpshooter with a bouncing electric shot and marked damage boost.",
+        "role": "Sniper / Support DPS",
+        "starPowers": [
+            "Positive Feedback",
+            "Grounded"
+        ],
+        "gadgets": [
+            "Nest Egg",
+            "Reverse Polarity"
+        ],
+        "bestMaps": [
+            "Shooting Star",
+            "Kaboom Canyon"
+        ]
+    },
+    "Buzz": {
+        "bio": "Lifeguard grappler with fast super charge and stunning throws.",
+        "role": "Assassin / Initiator",
+        "starPowers": [
+            "Eye on the Prize",
+            "Tough Belt"
+        ],
+        "gadgets": [
+            "Reserve Buoy",
+            "X-Ray-Shades"
+        ],
+        "bestMaps": [
+            "Backyard Bowl",
+            "Center Stage"
+        ]
+    },
+    "Ash": {
+        "bio": "Angry trash bot who gains damage through rage and has AoE crowd control.",
+        "role": "Tank / Crowd Control",
+        "starPowers": [
+            "First Bash",
+            "Mad As Heck"
+        ],
+        "gadgets": [
+            "Chill Pill",
+            "Rotten Banana"
+        ],
+        "bestMaps": [
+            "Cavern Churn",
+            "Dueling Beetles"
+        ]
+    },
+    "Lola": {
+        "bio": "Drama queen with a doppelgänger clone for dual firepower.",
+        "role": "Hybrid DPS / Utility",
+        "starPowers": [
+            "Improvise",
+            "Seal With a Kiss"
+        ],
+        "gadgets": [
+            "Freeze Frame",
+            "Stunt Doubles"
+        ],
+        "bestMaps": [
+            "Split",
+            "Open Zone"
+        ]
+    },
+    "Fang": {
+        "bio": "Martial arts movie star with high mobility and chain damage.",
+        "role": "Assassin / Splash Burst",
+        "starPowers": [
+            "Fresh Kicks",
+            "Divine Soles"
+        ],
+        "gadgets": [
+            "Corn-Fu",
+            "Roundhouse Kick"
+        ],
+        "bestMaps": [
+            "Backyard Bowl",
+            "Gem Fort"
+        ]
+    },
+    "Eve": {
+        "bio": "Alien critter who releases hatchlings and controls the field with floating.",
+        "role": "Spawner / Support",
+        "starPowers": [
+            "Unnatural Order",
+            "Happy Surprise"
+        ],
+        "gadgets": [
+            "Gotta Go!",
+            "Motherly Love"
+        ],
+        "bestMaps": [
+            "Open Zone",
+            "Ring of Fire"
+        ]
+    },
+    "Janet": {
+        "bio": "Pop star with dynamic range control and aerial Super.",
+        "role": "Sniper / Mobility Hybrid",
+        "starPowers": [
+            "Stage View",
+            "Drop the Beat"
+        ],
+        "gadgets": [
+            "Drop the Bass",
+            "Backstage Pass"
+        ],
+        "bestMaps": [
+            "Layer Cake",
+            "Gem Fort"
+        ]
+    },
+    "Otis": {
+        "bio": "Sea graffiti artist who silences enemies and controls map zones.",
+        "role": "Control / Utility",
+        "starPowers": [
+            "Stencil Glue",
+            "Street Art"
+        ],
+        "gadgets": [
+            "Dormant Star",
+            "Phat Splatter"
+        ],
+        "bestMaps": [
+            "Ring of Fire",
+            "Kaboom Canyon"
+        ]
+    },
+    "Maisie": {
+        "bio": "Theme park defender with knockback and precision control.",
+        "role": "Zoner / Utility",
+        "starPowers": [
+            "Finish Them",
+            "Pinpoint Precision"
+        ],
+        "gadgets": [
+            "Bumper",
+            "Disengage"
+        ],
+        "bestMaps": [
+            "Split",
+            "Center Stage"
+        ]
+    },
+    "Hank": {
+        "bio": "Submarine chef who launches expanding bubbles for splash attacks.",
+        "role": "Thrower / AoE Burst",
+        "starPowers": [
+            "It's Gonna Blow",
+            "Space Food"
+        ],
+        "gadgets": [
+            "Bubble Trouble",
+            "Water Balloons"
+        ],
+        "bestMaps": [
+            "Hot Potato",
+            "Dueling Beetles"
+        ]
+    },
+    "Cordelius": {
+        "bio": "Mushroom phantom with split reality and silence mechanics.",
+        "role": "Assassin / Control",
+        "starPowers": [
+            "Comboshrooms",
+            "Paranoia"
+        ],
+        "gadgets": [
+            "Replanting",
+            "Shroom Spores"
+        ],
+        "bestMaps": [
+            "Center Stage",
+            "Gem Fort"
+        ]
+    },
+    "Doug": {
+        "bio": "Snack bar master with revive and healing aura.",
+        "role": "Support / Sustain",
+        "starPowers": [
+            "Fast Food",
+            "Self Service"
+        ],
+        "gadgets": [
+            "Double Sausage",
+            "Extra Mustard"
+        ],
+        "bestMaps": [
+            "Ring of Fire",
+            "Split"
+        ]
+    },
+    "Pearl": {
+        "bio": "Furnace bot that stores heat and unleashes explosive AoE.",
+        "role": "Hybrid DPS / Burst",
+        "starPowers": [
+            "Heat Retention",
+            "Pyrolytic"
+        ],
+        "gadgets": [
+            "Heavy Metal",
+            "Let it Bake"
+        ],
+        "bestMaps": [
+            "Gem Fort",
+            "Hot Potato"
+        ]
+    },
+    "Chuck": {
+        "bio": "Ghost train conductor who dashes between markers and zones enemies.",
+        "role": "Mobility / Control",
+        "starPowers": [
+            "Pit Stop",
+            "Train to Go"
+        ],
+        "gadgets": [
+            "Reroute",
+            "Phantom Flyer"
+        ],
+        "bestMaps": [
+            "Backyard Bowl",
+            "Split"
+        ]
+    },
+    "Mico": {
+        "bio": "Monkey musician who stuns enemies with tempo and gadget rhythm.",
+        "role": "Control / DPS",
+        "starPowers": [
+            "Headbangers",
+            "Slap Bass"
+        ],
+        "gadgets": [
+            "Sticky Fret",
+            "Trap Track"
+        ],
+        "bestMaps": [
+            "Open Zone",
+            "Kaboom Canyon"
+        ]
+    },
+    "Alli": {
+        "bio": "Swamp-themed brawler who thrives against tanks, deploying mobility gadgets and pet companions.",
+        "role": "Hybrid Control",
+        "starPowers": [
+            "Lizard Limbs",
+            "You Better Run, You Better Take Cover"
+        ],
+        "gadgets": [
+            "Feed the Gators",
+            "Cold-Blooded"
+        ],
+        "bestMaps": [
+            "Hot Potato",
+            "Kaboom Canyon"
+        ]
+    },
+    "Squeak": {
+        "bio": "Sticky bomb thrower with area control and burst damage.",
+        "role": "Thrower / Area Control",
+        "starPowers": [
+            "Chain Reaction",
+            "Super Sticky"
+        ],
+        "gadgets": [
+            "Squeak Bomb",
+            "Sticky Ball"
+        ],
+        "bestMaps": [
+            "Ring of Fire",
+            "Dueling Beetles"
+        ]
+    },
+    "Mandy": {
+        "bio": "Ice queen with long-range freeze attacks and area control.",
+        "role": "Sniper / Area Control",
+        "starPowers": [
+            "Frosty Spikes",
+            "Chill Factor"
+        ],
+        "gadgets": [
+            "Snow Globe",
+            "Frostbite"
+        ],
+        "bestMaps": [
+            "Shooting Star",
+            "Ring of Fire"
+        ]
+    },
+    "Amber": {
+        "bio": "Firestarter with continuous flame attacks and area denial.",
+        "role": "Area Control / DPS",
+        "starPowers": [
+            "Fire Star",
+            "Blazing Speed"
+        ],
+        "gadgets": [
+            "Blowtorch",
+            "Fire Ring"
+        ],
+        "bestMaps": [
+            "Hot Potato",
+            "Ring of Fire"
+        ]
+    },
+    "R-T": {
+        "bio": "Robot with a powerful laser and area control.",
+        "role": "Sniper / Area Control",
+        "starPowers": [
+            "Laser Focus",
+            "Overclocked"
+        ],
+        "gadgets": [
+            "Rocket Fuel",
+            "Laser Beam"
+        ],
+        "bestMaps": [
+            "Shooting Star",
+            "Kaboom Canyon"
+        ]
+    }
+}
