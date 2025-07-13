@@ -1,0 +1,1531 @@
+{
+    "Hardrock Mine": {
+        "mode": "Gem Grab",
+        "description": "A classic 3-lane map with central gem mine and bush-heavy flanks.",
+        "recommendedBrawlers": [
+            "Bo",
+            "EMZ",
+            "Gene",
+            "Pam"
+        ],
+        "strategy": "Control the mid with range and vision. Use throwers or splash brawlers on side lanes to deny access and pressure enemies."
+    },
+    "Gem Fort": {
+        "mode": "Gem Grab",
+        "description": "Symmetrical walls and bushes near the mine with long alleys on each side.",
+        "recommendedBrawlers": [
+            "Rosa",
+            "Max",
+            "Sandy",
+            "Ash"
+        ],
+        "strategy": "Push together as a group and rotate when enemy controls mid. Speed and healing synergy dominate here."
+    },
+    "Minecart Madness": {
+        "mode": "Gem Grab",
+        "description": "Central mine area disrupted by moving minecarts that deal damage.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Sprout",
+            "Sandy",
+            "Bo"
+        ],
+        "strategy": "Play around minecart timing. Control choke points and avoid grouped pushes near minecart paths."
+    },
+    "Double Trouble": {
+        "mode": "Gem Grab",
+        "description": "Open mid and boxed side lanes with a clear central gem spawn.",
+        "recommendedBrawlers": [
+            "Piper",
+            "Belle",
+            "Bea",
+            "Spike"
+        ],
+        "strategy": "Dominate mid range with snipers and deny side access. Stay spread and pick slow fights over time."
+    },
+    "Crystal Arcade": {
+        "mode": "Gem Grab",
+        "description": "Maze-like layout with a hard-to-reach central mine and flank routes.",
+        "recommendedBrawlers": [
+            "Gus",
+            "Lola",
+            "Gene",
+            "Tara"
+        ],
+        "strategy": "Play control from the sides and keep mid rotating. Use supers to pressure the narrow choke at center."
+    },
+    "Flooded Mine": {
+        "mode": "Gem Grab",
+        "description": "Slippery map with water obstacles and split spawn zones.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Sprout",
+            "Pam",
+            "Gene"
+        ],
+        "strategy": "Control the dry patches and rotate through safe corridors. Vision and splash damage give edge on side control."
+    },
+    "Deep Diner": {
+        "mode": "Gem Grab",
+        "description": "Fast-paced diner-themed map with narrow corridors and scatter terrain.",
+        "recommendedBrawlers": [
+            "Ash",
+            "Max",
+            "Gale",
+            "Tara"
+        ],
+        "strategy": "Push center with coordinated aggression and defend flanks with supers. Use walls to pressure gem handoffs."
+    },
+    "Undercover Lab": {
+        "mode": "Gem Grab",
+        "description": "Strategic bushes and zigzag midline with off-center gem spawn.",
+        "recommendedBrawlers": [
+            "Sandy",
+            "EMZ",
+            "Buzz",
+            "Belle"
+        ],
+        "strategy": "Control choke points and sneak through brush for flanks. Gem spawn position favors reactive control."
+    },
+    "Shattered Dreams": {
+        "mode": "Gem Grab",
+        "description": "Isolated gem spawn surrounded by bush pockets and jump pads.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Stu",
+            "Tara",
+            "Fang"
+        ],
+        "strategy": "Use mobility and invisibility to exploit flank routes. Rotate quickly post-pickup and deny retreat lanes."
+    },
+    "Goldarm Gulch": {
+        "mode": "Gem Grab",
+        "description": "Symmetrical desert-themed map with long alleys and wide mid.",
+        "recommendedBrawlers": [
+            "Belle",
+            "Piper",
+            "Gale",
+            "Bo"
+        ],
+        "strategy": "Use knockback and range to control mid. Guard gem carriers and rotate defensively when pressured."
+    },
+    "Acute Angle": {
+        "mode": "Gem Grab",
+        "description": "Triangular layout with sharp corners and narrow lanes branching from center.",
+        "recommendedBrawlers": [
+            "Buzz",
+            "Gene",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control choke points and surprise enemies from corners. Use supers to lock down mid rotation zones."
+    },
+    "Cotton Candy Dreams": {
+        "mode": "Gem Grab",
+        "description": "Pastel maze with soft barriers and jump pads in both lanes.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "EMZ",
+            "Lola"
+        ],
+        "strategy": "Use gadget mobility and invisibility zones for flanking. Focus on pad control to rotate aggressively."
+    },
+    "Sneaky Fields": {
+        "mode": "Gem Grab",
+        "description": "Bush-dense mid and mirrored edges create ambush opportunities.",
+        "recommendedBrawlers": [
+            "Rosa",
+            "Leon",
+            "Gus",
+            "Bo"
+        ],
+        "strategy": "Use vision tools and bush control to dominate center. Anti-flank brawlers shine in defense."
+    },
+    "Molten Mines": {
+        "mode": "Gem Grab",
+        "description": "Lava-themed symmetrical lanes with open gem spawn and explosive walls.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Pam",
+            "Tara",
+            "Sprout"
+        ],
+        "strategy": "Maintain gem pressure with sustained chip damage. Keep gem carriers safe and bait flanks toward traps."
+    },
+    "Rockwall Brawl": {
+        "mode": "Gem Grab",
+        "description": "Cage-like outer edges and gem spawn surrounded by box formations.",
+        "recommendedBrawlers": [
+            "Gale",
+            "EMZ",
+            "Belle",
+            "Lola"
+        ],
+        "strategy": "Control mid with splash and knockback tools. Isolate rush attempts and rotate to safe zones post-pickup."
+    },
+    "Gemstone Cavern": {
+        "mode": "Gem Grab",
+        "description": "Underground-themed map with layered walls and bush tunnels around the gem spawn.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Gale",
+            "Ash",
+            "Sandy"
+        ],
+        "strategy": "Control vision through the center tunnel. Use AoE to punish grouped enemies and rotate left/right based on gem flow."
+    },
+    "Misty Mine": {
+        "mode": "Gem Grab",
+        "description": "Foggy terrain with soft walls dividing three lanes and small pockets for ambushes.",
+        "recommendedBrawlers": [
+            "Lola",
+            "Sprout",
+            "Pam",
+            "Buzz"
+        ],
+        "strategy": "Spread out mid control and trap opponents behind outer walls. Burst or zone out gem pickups during rotations."
+    },
+    "Shimmering Chamber": {
+        "mode": "Gem Grab",
+        "description": "Glittery layout with mirrored choke points and tight flank paths.",
+        "recommendedBrawlers": [
+            "EMZ",
+            "Gene",
+            "Otis",
+            "Cordelius"
+        ],
+        "strategy": "Suppress gem carriers from brush lanes. Use vision gadgets or silence to shut down control zones."
+    },
+    "Miner's Retreat": {
+        "mode": "Gem Grab",
+        "description": "Sloped corner layout with ramps on both sides and an open gem mine in the middle.",
+        "recommendedBrawlers": [
+            "Janet",
+            "Bea",
+            "Leon",
+            "Sandy"
+        ],
+        "strategy": "Use vertical mobility or invisibility to pressure uphill lanes. Control gem rhythm through timing and escape."
+    },
+    "Crystalline Cradle": {
+        "mode": "Gem Grab",
+        "description": "Gem spawn sits between wall-lined lanes and layered brush areas on both flanks.",
+        "recommendedBrawlers": [
+            "Max",
+            "Tara",
+            "Crow",
+            "Bo"
+        ],
+        "strategy": "Sweep side lanes with supers and rotate through brush zones. Use mid control pressure to break stalemates."
+    },
+    "Twisted Cavern": {
+        "mode": "Gem Grab",
+        "description": "Maze-like underground map with winding corridors and a central gem spawn.",
+        "recommendedBrawlers": [
+            "Sprout",
+            "Bo",
+            "Sandy",
+            "Buzz"
+        ],
+        "strategy": "Control the twists with throwers and vision tools. Use supers to trap enemies in narrow lanes and rotate safely."
+    },
+    "Gem Rush": {
+        "mode": "Gem Grab",
+        "description": "Fast-paced layout with open mid and mirrored side lanes.",
+        "recommendedBrawlers": [
+            "Max",
+            "Pam",
+            "Spike",
+            "Tara"
+        ],
+        "strategy": "Dominate mid early and rotate quickly to deny pickups. Use speed and healing synergy to maintain control."
+    },
+    "Crystal Clear": {
+        "mode": "Gem Grab",
+        "description": "Transparent terrain with minimal cover and wide gem spawn zone.",
+        "recommendedBrawlers": [
+            "Piper",
+            "Belle",
+            "Bea",
+            "Leon"
+        ],
+        "strategy": "Use snipers to control open lanes. Punish overextensions and rotate to flank with invisibility or burst."
+    },
+    "Gemstone Jungle": {
+        "mode": "Gem Grab",
+        "description": "Dense jungle-themed map with layered brush and gem spawn tucked behind walls.",
+        "recommendedBrawlers": [
+            "Rosa",
+            "Cordelius",
+            "Gus",
+            "Bo"
+        ],
+        "strategy": "Control bushes and deny flanks. Use vision gadgets and AoE to pressure grouped enemies near spawn."
+    },
+    "Shadow Mine": {
+        "mode": "Gem Grab",
+        "description": "Dark-themed map with shadowy corners and a narrow central gem lane.",
+        "recommendedBrawlers": [
+            "EMZ",
+            "Gene",
+            "Buzz",
+            "Gale"
+        ],
+        "strategy": "Suppress mid with splash and knockback. Rotate through shadows and bait supers near choke points."
+    },
+    "Crystal Canyon": {
+        "mode": "Gem Grab",
+        "description": "Wide canyon layout with layered walls and open gem spawn zone.",
+        "recommendedBrawlers": [
+            "Belle",
+            "Bo",
+            "Spike",
+            "Max"
+        ],
+        "strategy": "Control mid with range and rotate through canyon flanks. Use supers to trap enemies near gem handoff zones."
+    },
+    "Gem Grotto": {
+        "mode": "Gem Grab",
+        "description": "Underground-themed map with narrow tunnels and a central gem mine.",
+        "recommendedBrawlers": [
+            "Sprout",
+            "Sandy",
+            "Buzz",
+            "Pam"
+        ],
+        "strategy": "Use throwers and vision control to dominate tunnels. Rotate quickly and deny grouped pushes near spawn."
+    },
+    "Prism Path": {
+        "mode": "Gem Grab",
+        "description": "Colorful mirrored layout with jump pads and layered brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Gale",
+            "EMZ",
+            "Tara"
+        ],
+        "strategy": "Control pad timing and use invisibility or splash to pressure mid. Rotate through brush and bait supers."
+    },
+    "Gem Junction": {
+        "mode": "Gem Grab",
+        "description": "Rail-themed map with symmetrical lanes and a gem spawn near center tracks.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Gene",
+            "Buzz",
+            "Ash"
+        ],
+        "strategy": "Control track zones and use knockback or stun to deny pickups. Rotate through side lanes for pressure."
+    },
+    "Glitter Gulch": {
+        "mode": "Gem Grab",
+        "description": "Sparkly desert layout with open mid and bush-heavy flanks.",
+        "recommendedBrawlers": [
+            "Belle",
+            "Spike",
+            "Sandy",
+            "Gus"
+        ],
+        "strategy": "Use chip damage and healing synergy to control mid. Deny flanks with vision gadgets and rotate safely."
+    },
+    "Gem Gauntlet": {
+        "mode": "Gem Grab",
+        "description": "A symmetrical map with layered walls and a narrow central gem spawn corridor.",
+        "recommendedBrawlers": [
+            "Gale",
+            "EMZ",
+            "Bo",
+            "Pam"
+        ],
+        "strategy": "Control the corridor with splash and knockback. Use supers to trap enemies near the gem spawn and rotate through side lanes."
+    },
+    "Crystal Crossroads": {
+        "mode": "Gem Grab",
+        "description": "Intersecting paths with gem spawn at the center and multiple flank routes.",
+        "recommendedBrawlers": [
+            "Max",
+            "Gene",
+            "Spike",
+            "Tara"
+        ],
+        "strategy": "Dominate mid early and rotate through cross paths. Use speed and healing synergy to maintain control and deny pickups."
+    },
+    "Gem Drift": {
+        "mode": "Gem Grab",
+        "description": "Floating platforms with jump pads and a central gem spawn zone.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Buzz",
+            "Gus",
+            "Bo"
+        ],
+        "strategy": "Control pad timing and use invisibility or stun to pressure mid. Rotate through platforms and bait supers."
+    },
+    "Gem Trap": {
+        "mode": "Gem Grab",
+        "description": "Trap-heavy layout with narrow lanes and a gem spawn surrounded by walls.",
+        "recommendedBrawlers": [
+            "Sprout",
+            "Sandy",
+            "Belle",
+            "Ash"
+        ],
+        "strategy": "Use throwers and vision control to dominate traps. Rotate quickly and deny grouped pushes near spawn."
+    },
+    "Gem Blitz": {
+        "mode": "Gem Grab",
+        "description": "Fast-paced layout with open mid and mirrored side lanes.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Pam",
+            "Max",
+            "Tara"
+        ],
+        "strategy": "Dominate mid early and rotate quickly to deny pickups. Use speed and healing synergy to maintain control."
+    },
+    "Gem Spiral": {
+        "mode": "Gem Grab",
+        "description": "Spiral-shaped layout with rotating lanes and a central gem spawn.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Sprout",
+            "Sandy",
+            "Buzz"
+        ],
+        "strategy": "Control the spiral turns with throwers and vision. Use supers to trap enemies in loops and rotate safely."
+    },
+    "Gem Furnace": {
+        "mode": "Gem Grab",
+        "description": "Industrial-themed map with layered walls and a gem spawn near furnace pipes.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Spike",
+            "Gene",
+            "Ash"
+        ],
+        "strategy": "Use sustained damage and healing to control mid. Rotate through furnace corridors and deny grouped pushes."
+    },
+    "Gem Mirage": {
+        "mode": "Gem Grab",
+        "description": "Illusion-themed layout with mirrored lanes and hidden brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "EMZ",
+            "Bo"
+        ],
+        "strategy": "Use invisibility and vision gadgets to dominate hidden zones. Rotate through mirrored paths and bait supers."
+    },
+    "Gem Vault": {
+        "mode": "Gem Grab",
+        "description": "Vault-style map with gem spawn tucked behind layered walls and narrow corridors.",
+        "recommendedBrawlers": [
+            "Gale",
+            "Belle",
+            "Buzz",
+            "Tara"
+        ],
+        "strategy": "Control vault access with knockback and splash. Use supers to trap enemies near gem handoff zones."
+    },
+    "Gem Echo": {
+        "mode": "Gem Grab",
+        "description": "Echo-themed layout with symmetrical lanes and a central gem spawn surrounded by brush.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Gus",
+            "Spike",
+            "Max"
+        ],
+        "strategy": "Use vision and chip damage to control mid. Rotate through echo lanes and deny pickups with speed."
+    },
+    "Gem Clash": {
+        "mode": "Gem Grab",
+        "description": "Symmetrical layout with layered walls and a central gem spawn surrounded by brush.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Sandy",
+            "Buzz",
+            "Pam"
+        ],
+        "strategy": "Control mid with vision and splash. Use supers to trap enemies near gem handoff zones and rotate through flanks."
+    },
+    "Gem Divide": {
+        "mode": "Gem Grab",
+        "description": "Split-lane map with mirrored corridors and a gem spawn tucked behind central walls.",
+        "recommendedBrawlers": [
+            "Sprout",
+            "Gale",
+            "EMZ",
+            "Cordelius"
+        ],
+        "strategy": "Use throwers and knockback to dominate narrow lanes. Rotate through side corridors and bait supers near spawn."
+    },
+    "Gem Crater": {
+        "mode": "Gem Grab",
+        "description": "Crater-themed layout with open mid and layered brush zones on both flanks.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Gene",
+            "Max",
+            "Tara"
+        ],
+        "strategy": "Control crater center with chip damage and healing. Rotate through brush zones and deny pickups with speed."
+    },
+    "Gem Outpost": {
+        "mode": "Gem Grab",
+        "description": "Outpost-style map with symmetrical lanes and a gem spawn near central walls.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Buzz",
+            "Gus",
+            "Ash"
+        ],
+        "strategy": "Control outpost corridors with vision and stun. Use supers to trap enemies near gem spawn and rotate through flanks."
+    },
+    "Gem Mirage II": {
+        "mode": "Gem Grab",
+        "description": "Updated illusion-themed layout with mirrored lanes and hidden brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "EMZ",
+            "Bo"
+        ],
+        "strategy": "Use invisibility and vision gadgets to dominate hidden zones. Rotate through mirrored paths and bait supers."
+    },
+    "Backyard Bowl": {
+        "mode": "Brawl Ball",
+        "description": "Iconic, open layout with wide central lane and side bushes for flanks.",
+        "recommendedBrawlers": [
+            "Max",
+            "EMZ",
+            "Crow",
+            "Surge"
+        ],
+        "strategy": "Use speed and crowd control to dominate mid rotations. Watch for assassins in side bushes and rotate after passes."
+    },
+    "Triple Dribble": {
+        "mode": "Brawl Ball",
+        "description": "Narrow mid corridor with boxy flanks and predictable lanes.",
+        "recommendedBrawlers": [
+            "Bibi",
+            "Buzz",
+            "Gale",
+            "Lola"
+        ],
+        "strategy": "Break center walls early and pressure goals with dash or stun supers. Use knockback tools to clear ball space."
+    },
+    "Pinball Dreams": {
+        "mode": "Brawl Ball",
+        "description": "Scattered obstacles mid-map with curved goal walls.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Surge",
+            "Max",
+            "Gus"
+        ],
+        "strategy": "Use unpredictable angles to sneak goals. Control obstacles to trap enemies and rotate quickly for rebounds."
+    },
+    "Center Stage": {
+        "mode": "Brawl Ball",
+        "description": "Open midfield surrounded by boxy walls and long flanks.",
+        "recommendedBrawlers": [
+            "Fang",
+            "EMZ",
+            "Janet",
+            "Buzz"
+        ],
+        "strategy": "Dominate midfield with range and mobility. Use supers for clutch goals or stuns to intercept passes."
+    },
+    "Split": {
+        "mode": "Brawl Ball",
+        "description": "Divided midline with mirrored flanks and central wall cluster near the ball spawn.",
+        "recommendedBrawlers": [
+            "Max",
+            "Surge",
+            "Gale",
+            "Lola"
+        ],
+        "strategy": "Break central walls early to open scoring lanes. Use speed and knockback to control flanks and intercept passes."
+    },
+    "Layer Cake": {
+        "mode": "Brawl Ball",
+        "description": "Stacked wall formations and bushy flanks with narrow goal corridors.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Fang",
+            "EMZ",
+            "Cordelius"
+        ],
+        "strategy": "Use splash and burst to clear goal paths. Rotate through layered terrain and bait supers near choke zones."
+    },
+    "Dueling Beetles": {
+        "mode": "Brawl Ball",
+        "description": "Symmetrical layout with long side lanes and a central wall cluster.",
+        "recommendedBrawlers": [
+            "Buzz",
+            "Gale",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control side lanes with stun and vision. Break mid walls to open scoring angles and rotate defensively."
+    },
+    "Hot Potato": {
+        "mode": "Brawl Ball",
+        "description": "Open mid with goal walls and boxy flanks for ambushes.",
+        "recommendedBrawlers": [
+            "Fang",
+            "Max",
+            "Pam",
+            "Gus"
+        ],
+        "strategy": "Use speed and healing to dominate midfield. Rotate through flanks and bait defenders near goal walls."
+    },
+    "Kaboom Canyon": {
+        "mode": "Brawl Ball",
+        "description": "Canyon-themed layout with layered walls and narrow goal corridors.",
+        "recommendedBrawlers": [
+            "Surge",
+            "Spike",
+            "Gale",
+            "EMZ"
+        ],
+        "strategy": "Break walls to open scoring paths. Use splash and knockback to control mid and deny goal zone access."
+    },
+    "Field Goal": {
+        "mode": "Brawl Ball",
+        "description": "Open midfield with goal walls and bushy flanks for ambushes.",
+        "recommendedBrawlers": [
+            "Max",
+            "Fang",
+            "Gale",
+            "Buzz"
+        ],
+        "strategy": "Use speed and stun to dominate midfield. Break goal walls early and rotate through flanks for scoring pressure."
+    },
+    "Super Stadium": {
+        "mode": "Brawl Ball",
+        "description": "Classic stadium layout with symmetrical lanes and central wall cluster.",
+        "recommendedBrawlers": [
+            "Surge",
+            "EMZ",
+            "Spike",
+            "Bo"
+        ],
+        "strategy": "Control mid with splash and chip damage. Break central walls to open scoring paths and rotate defensively."
+    },
+    "Iron Corridor": {
+        "mode": "Brawl Ball",
+        "description": "Narrow corridor map with layered walls and tight goal zones.",
+        "recommendedBrawlers": [
+            "Gale",
+            "Bibi",
+            "Ash",
+            "Cordelius"
+        ],
+        "strategy": "Use knockback and AoE to control corridor fights. Break walls near goal and rotate through side lanes for flanks."
+    },
+    "Goalkeeper's Alley": {
+        "mode": "Brawl Ball",
+        "description": "Boxy layout with goal walls and bush-heavy flanks.",
+        "recommendedBrawlers": [
+            "Buzz",
+            "Bo",
+            "Pam",
+            "Spike"
+        ],
+        "strategy": "Control bushes with vision and stun. Use supers to trap defenders and rotate through flanks for scoring."
+    },
+    "Power Play": {
+        "mode": "Brawl Ball",
+        "description": "Symmetrical map with layered terrain and open midfield.",
+        "recommendedBrawlers": [
+            "Max",
+            "Gale",
+            "Surge",
+            "Fang"
+        ],
+        "strategy": "Dominate mid with speed and knockback. Break walls to open scoring lanes and rotate quickly after passes."
+    },
+    "Pit Stop": {
+        "mode": "Heist",
+        "description": "Symmetrical layout with side lanes and a safe tucked behind walls.",
+        "recommendedBrawlers": [
+            "Bull",
+            "Edgar",
+            "Barley",
+            "Max"
+        ],
+        "strategy": "Rush the safe with mobility and burst. Control side lanes and bait defenders into open terrain."
+    },
+    "Bridge Too Far": {
+        "mode": "Heist",
+        "description": "Bridge-themed map with narrow mid and flanking routes to the safe.",
+        "recommendedBrawlers": [
+            "Fang",
+            "Gale",
+            "Spike",
+            "Colt"
+        ],
+        "strategy": "Break bridge walls and rotate through flanks. Use supers to pressure the safe and deny enemy pushes."
+    },
+    "Safe Zone": {
+        "mode": "Heist",
+        "description": "Wide open mid with layered cover near the safe and long-range sightlines.",
+        "recommendedBrawlers": [
+            "Belle",
+            "Brock",
+            "Surge",
+            "Barley"
+        ],
+        "strategy": "Control mid with range and splash. Break safe cover and rotate through side lanes for chip damage."
+    },
+    "ICE HEIST": {
+        "mode": "Heist",
+        "description": "A frosty-themed map located near Kings Road in Jaipur, featuring tight corridors and chilly ambush zones.",
+        "recommendedBrawlers": [
+            "Barley",
+            "Buzz",
+            "Spike",
+            "Colt"
+        ],
+        "strategy": "Use splash damage and stun to control narrow paths. Break ice walls early and rotate through cold flanks to pressure the safe."
+    },
+    "The Heist Cafe": {
+        "mode": "Heist",
+        "description": "Urban-style layout with cozy corners and layered terrain near Tonk Phatak.",
+        "recommendedBrawlers": [
+            "Gale",
+            "Pam",
+            "Fang",
+            "Belle"
+        ],
+        "strategy": "Control mid with knockback and healing. Use supers to trap defenders near the safe and rotate through alley-style flanks."
+    },
+    "Heist-aan-Zee": {
+        "mode": "Heist",
+        "description": "Coastal-themed map based in Knokke-Heist, Belgium, with open sightlines and beachside cover.",
+        "recommendedBrawlers": [
+            "Brock",
+            "Surge",
+            "Max",
+            "Bo"
+        ],
+        "strategy": "Use long-range poke and speed to dominate open lanes. Break beach barriers and rotate through sand traps to reach the safe."
+    },
+    "Heist": {
+        "mode": "Heist",
+        "description": "German countryside layout with symmetrical terrain and layered brush zones.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Gus",
+            "Cordelius",
+            "Barley"
+        ],
+        "strategy": "Control brush zones with vision and splash. Rotate through mirrored paths and bait defenders near the safe."
+    },
+    "Money heist cafe": {
+        "mode": "Heist",
+        "description": "Stylized map inspired by the famous series, located in Capital Highstreet I, Jaipur.",
+        "recommendedBrawlers": [
+            "Fang",
+            "Gale",
+            "Buzz",
+            "EMZ"
+        ],
+        "strategy": "Use stun and knockback to pressure defenders. Break vault walls and rotate through themed corridors for safe access."
+    },
+    "The money hiest cafe & Restaurants": {
+        "mode": "Heist",
+        "description": "Sitapura-based layout with layered terrain and cozy ambush zones.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Colt",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control mid with healing and chip damage. Rotate through flanks and use supers to trap defenders near the safe."
+    },
+    "Rolling Rails": {
+        "mode": "Heist",
+        "description": "Train-themed map with moving minecarts and layered terrain near the safe.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Barley",
+            "Buzz",
+            "Spike"
+        ],
+        "strategy": "Time your pushes around minecart movement. Use splash and stun to control mid and rotate through rail corridors."
+    },
+    "Vault Assault": {
+        "mode": "Heist",
+        "description": "Symmetrical layout with central wall cluster and mirrored flanks.",
+        "recommendedBrawlers": [
+            "Colt",
+            "Fang",
+            "Pam",
+            "Surge"
+        ],
+        "strategy": "Break mid walls early and pressure the safe with burst. Rotate through flanks and bait defenders into open terrain."
+    },
+    "Safecracker's Alley": {
+        "mode": "Heist",
+        "description": "Urban alley-style map with narrow lanes and layered cover near the safe.",
+        "recommendedBrawlers": [
+            "Gale",
+            "EMZ",
+            "Buzz",
+            "Bo"
+        ],
+        "strategy": "Control alley lanes with knockback and splash. Use supers to trap defenders and rotate through side corridors."
+    },
+    "Gold Rush": {
+        "mode": "Heist",
+        "description": "Desert-themed layout with open mid and bush-heavy flanks.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Max",
+            "Belle",
+            "Barley"
+        ],
+        "strategy": "Use chip damage and speed to pressure the safe. Control flanks with splash and rotate through brush zones."
+    },
+    "Crimson Cache": {
+        "mode": "Heist",
+        "description": "Red-hued terrain with layered walls and a safe tucked behind central cover.",
+        "recommendedBrawlers": [
+            "Fang",
+            "Surge",
+            "Pam",
+            "Cordelius"
+        ],
+        "strategy": "Break central cover and rush the safe with burst. Use supers to trap defenders and rotate through mirrored paths."
+    },
+    "Blast Barricade": {
+        "mode": "Heist",
+        "description": "Explosive-themed layout with central wall clusters and mirrored flanks.",
+        "recommendedBrawlers": [
+            "Colt",
+            "Barley",
+            "Fang",
+            "Belle"
+        ],
+        "strategy": "Break barricades early and pressure the safe with splash or burst. Rotate through flanks and trap defenders near spawn."
+    },
+    "Vault Vortex": {
+        "mode": "Heist",
+        "description": "Swirling terrain with layered walls and a safe tucked behind circular cover.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Surge",
+            "Pam",
+            "Bo"
+        ],
+        "strategy": "Control vortex lanes with chip and splash. Break safe cover and rotate through mirrored paths for pressure."
+    },
+    "Safe Haven": {
+        "mode": "Heist",
+        "description": "Defensive layout with bush-heavy flanks and a safe protected by layered walls.",
+        "recommendedBrawlers": [
+            "Buzz",
+            "Gale",
+            "Barley",
+            "Cordelius"
+        ],
+        "strategy": "Use stun and knockback to trap defenders. Rotate through brush zones and bait supers near the safe."
+    },
+    "Crate Carnage": {
+        "mode": "Heist",
+        "description": "Box-filled terrain with narrow corridors and a safe surrounded by crates.",
+        "recommendedBrawlers": [
+            "Fang",
+            "EMZ",
+            "Colt",
+            "Max"
+        ],
+        "strategy": "Break crates to open scoring paths. Use splash and speed to pressure the safe and rotate through tight lanes."
+    },
+    "Vault Veins": {
+        "mode": "Heist",
+        "description": "Mine-themed layout with vein-like corridors and layered terrain near the safe.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Barley",
+            "Spike",
+            "Gus"
+        ],
+        "strategy": "Control vein paths with vision and splash. Rotate through tunnels and trap defenders near the vault."
+    },
+    "Cracked Core": {
+        "mode": "Heist",
+        "description": "Volcanic-themed layout with a fractured center and narrow flanks.",
+        "recommendedBrawlers": [
+            "Colt",
+            "Barley",
+            "Fang",
+            "Bo"
+        ],
+        "strategy": "Break central terrain early and pressure the safe with splash or burst. Rotate through flanks and trap defenders near spawn."
+    },
+    "Safe Circuit": {
+        "mode": "Heist",
+        "description": "Tech-themed map with circular paths and layered walls around the safe.",
+        "recommendedBrawlers": [
+            "Surge",
+            "Spike",
+            "Pam",
+            "Buzz"
+        ],
+        "strategy": "Control circuit lanes with chip and stun. Break safe cover and rotate through mirrored paths for pressure."
+    },
+    "Vault Tracks": {
+        "mode": "Heist",
+        "description": "Railway-style layout with moving carts and narrow corridors.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Barley",
+            "Buzz",
+            "Gale"
+        ],
+        "strategy": "Time pushes around cart movement. Use splash and knockback to control mid and rotate through rail corridors."
+    },
+    "Safe Split": {
+        "mode": "Heist",
+        "description": "Split-lane map with mirrored corridors and a safe tucked behind central walls.",
+        "recommendedBrawlers": [
+            "Fang",
+            "EMZ",
+            "Colt",
+            "Max"
+        ],
+        "strategy": "Break central walls and rush the safe with burst. Rotate through side corridors and bait defenders into open terrain."
+    },
+    "Vault Mirage": {
+        "mode": "Heist",
+        "description": "Illusion-themed layout with mirrored lanes and hidden brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "EMZ",
+            "Bo"
+        ],
+        "strategy": "Use invisibility and vision gadgets to dominate hidden zones. Rotate through mirrored paths and bait supers near the safe."
+    },
+    "Vault Clash": {
+        "mode": "Heist",
+        "description": "Symmetrical layout with layered walls and a safe positioned behind central cover.",
+        "recommendedBrawlers": [
+            "Colt",
+            "Barley",
+            "Fang",
+            "Bo"
+        ],
+        "strategy": "Break central terrain early and pressure the safe with splash or burst. Rotate through flanks and trap defenders near spawn."
+    },
+    "Safe Spiral": {
+        "mode": "Heist",
+        "description": "Spiral-shaped terrain with rotating lanes and a safe tucked behind curved walls.",
+        "recommendedBrawlers": [
+            "Surge",
+            "Spike",
+            "Pam",
+            "Buzz"
+        ],
+        "strategy": "Control spiral turns with chip and stun. Break safe cover and rotate through mirrored paths for pressure."
+    },
+    "Crate Cache": {
+        "mode": "Heist",
+        "description": "Crate-filled layout with narrow corridors and a safe surrounded by boxes.",
+        "recommendedBrawlers": [
+            "Fang",
+            "EMZ",
+            "Colt",
+            "Max"
+        ],
+        "strategy": "Break crates to open scoring paths. Use splash and speed to pressure the safe and rotate through tight lanes."
+    },
+    "Vault Mirage II": {
+        "mode": "Heist",
+        "description": "Updated illusion-themed layout with mirrored lanes and hidden brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "EMZ",
+            "Bo"
+        ],
+        "strategy": "Use invisibility and vision gadgets to dominate hidden zones. Rotate through mirrored paths and bait supers near the safe."
+    },
+    "Safe Junction": {
+        "mode": "Heist",
+        "description": "Rail-themed map with symmetrical lanes and a safe near central tracks.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Buzz",
+            "Gus",
+            "Ash"
+        ],
+        "strategy": "Control track zones with vision and stun. Use supers to trap defenders and rotate through side corridors."
+    },
+    "Vault Drift": {
+        "mode": "Heist",
+        "description": "Floating platforms with jump pads and a safe positioned near the center.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Buzz",
+            "Bo",
+            "Barley"
+        ],
+        "strategy": "Control pad timing and use invisibility or stun to pressure the safe. Rotate through platforms and bait supers."
+    },
+    "Crimson Vault": {
+        "mode": "Heist",
+        "description": "Red-hued terrain with layered walls and a safe tucked behind central cover.",
+        "recommendedBrawlers": [
+            "Fang",
+            "Surge",
+            "Pam",
+            "Cordelius"
+        ],
+        "strategy": "Break central cover and rush the safe with burst. Use supers to trap defenders and rotate through mirrored paths."
+    },
+    "Safe Spiral II": {
+        "mode": "Heist",
+        "description": "Updated spiral layout with rotating lanes and a safe tucked behind curved walls.",
+        "recommendedBrawlers": [
+            "Surge",
+            "Spike",
+            "Pam",
+            "Buzz"
+        ],
+        "strategy": "Control spiral turns with chip and stun. Break safe cover and rotate through mirrored paths for pressure."
+    },
+    "Vault Junction II": {
+        "mode": "Heist",
+        "description": "Rail-themed map with symmetrical lanes and a safe near central tracks.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Buzz",
+            "Gus",
+            "Ash"
+        ],
+        "strategy": "Control track zones with vision and stun. Use supers to trap defenders and rotate through side corridors."
+    },
+    "Safe Mirage III": {
+        "mode": "Heist",
+        "description": "Illusion-themed layout with mirrored lanes and hidden brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "EMZ",
+            "Bo"
+        ],
+        "strategy": "Use invisibility and vision gadgets to dominate hidden zones. Rotate through mirrored paths and bait supers near the safe."
+    },
+    "Vault Blaze": {
+        "mode": "Heist",
+        "description": "Fire-themed layout with lava pits and layered terrain near the safe.",
+        "recommendedBrawlers": [
+            "Barley",
+            "Buzz",
+            "Spike",
+            "Colt"
+        ],
+        "strategy": "Use splash and stun to control fiery corridors. Break lava walls early and rotate through heated flanks to pressure the safe."
+    },
+    "Safe Storm": {
+        "mode": "Heist",
+        "description": "Stormy terrain with swirling wind zones and narrow paths to the safe.",
+        "recommendedBrawlers": [
+            "Gale",
+            "Pam",
+            "Fang",
+            "Belle"
+        ],
+        "strategy": "Control mid with knockback and healing. Use supers to trap defenders near the safe and rotate through gusty flanks."
+    },
+    "Vault Horizon": {
+        "mode": "Heist",
+        "description": "Sky-themed layout with floating platforms and open sightlines.",
+        "recommendedBrawlers": [
+            "Brock",
+            "Surge",
+            "Max",
+            "Bo"
+        ],
+        "strategy": "Use long-range poke and speed to dominate open lanes. Break sky barriers and rotate through aerial paths to reach the safe."
+    },
+    "Safe Grove": {
+        "mode": "Heist",
+        "description": "Forest-themed layout with symmetrical terrain and layered brush zones.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Gus",
+            "Cordelius",
+            "Barley"
+        ],
+        "strategy": "Control brush zones with vision and splash. Rotate through mirrored paths and bait defenders near the safe."
+    },
+    "Vault Echo": {
+        "mode": "Heist",
+        "description": "Echo-themed layout with symmetrical lanes and a safe surrounded by brush.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Colt",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control mid with healing and chip damage. Rotate through flanks and use supers to trap defenders near the safe."
+    },
+    "Vault Canyon": {
+        "mode": "Heist",
+        "description": "Canyon-themed layout with layered walls and a safe tucked behind rocky terrain.",
+        "recommendedBrawlers": [
+            "Colt",
+            "Barley",
+            "Fang",
+            "Bo"
+        ],
+        "strategy": "Break rocky cover early and pressure the safe with splash or burst. Rotate through flanks and trap defenders near spawn."
+    },
+    "Safe Mirage IV": {
+        "mode": "Heist",
+        "description": "Illusion-themed layout with mirrored lanes and hidden brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "EMZ",
+            "Bo"
+        ],
+        "strategy": "Use invisibility and vision gadgets to dominate hidden zones. Rotate through mirrored paths and bait supers near the safe."
+    },
+    "Vault Junction III": {
+        "mode": "Heist",
+        "description": "Rail-themed map with symmetrical lanes and a safe near central tracks.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Buzz",
+            "Gus",
+            "Ash"
+        ],
+        "strategy": "Control track zones with vision and stun. Use supers to trap defenders and rotate through side corridors."
+    },
+    "Safe Spiral III": {
+        "mode": "Heist",
+        "description": "Spiral-shaped terrain with rotating lanes and a safe tucked behind curved walls.",
+        "recommendedBrawlers": [
+            "Surge",
+            "Spike",
+            "Pam",
+            "Buzz"
+        ],
+        "strategy": "Control spiral turns with chip and stun. Break safe cover and rotate through mirrored paths for pressure."
+    },
+    "Vault Echo II": {
+        "mode": "Heist",
+        "description": "Echo-themed layout with symmetrical lanes and a safe surrounded by brush.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Colt",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control mid with healing and chip damage. Rotate through flanks and use supers to trap defenders near the safe."
+    },
+    "Vault Blaze II": {
+        "mode": "Heist",
+        "description": "Updated fire-themed layout with lava pits and layered terrain near the safe.",
+        "recommendedBrawlers": [
+            "Barley",
+            "Buzz",
+            "Spike",
+            "Colt"
+        ],
+        "strategy": "Use splash and stun to control fiery corridors. Break lava walls early and rotate through heated flanks to pressure the safe."
+    },
+    "Safe Storm II": {
+        "mode": "Heist",
+        "description": "Stormy terrain with swirling wind zones and narrow paths to the safe.",
+        "recommendedBrawlers": [
+            "Gale",
+            "Pam",
+            "Fang",
+            "Belle"
+        ],
+        "strategy": "Control mid with knockback and healing. Use supers to trap defenders near the safe and rotate through gusty flanks."
+    },
+    "Vault Horizon II": {
+        "mode": "Heist",
+        "description": "Sky-themed layout with floating platforms and open sightlines.",
+        "recommendedBrawlers": [
+            "Brock",
+            "Surge",
+            "Max",
+            "Bo"
+        ],
+        "strategy": "Use long-range poke and speed to dominate open lanes. Break sky barriers and rotate through aerial paths to reach the safe."
+    },
+    "Safe Grove II": {
+        "mode": "Heist",
+        "description": "Forest-themed layout with symmetrical terrain and layered brush zones.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Gus",
+            "Cordelius",
+            "Barley"
+        ],
+        "strategy": "Control brush zones with vision and splash. Rotate through mirrored paths and bait defenders near the safe."
+    },
+    "Vault Echo III": {
+        "mode": "Heist",
+        "description": "Echo-themed layout with symmetrical lanes and a safe surrounded by brush.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Colt",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control mid with healing and chip damage. Rotate through flanks and use supers to trap defenders near the safe."
+    },
+    "Vault Blaze III": {
+        "mode": "Heist",
+        "description": "Refined fire-themed layout with lava pits and layered terrain near the safe.",
+        "recommendedBrawlers": [
+            "Barley",
+            "Buzz",
+            "Spike",
+            "Colt"
+        ],
+        "strategy": "Use splash and stun to control fiery corridors. Break lava walls early and rotate through heated flanks to pressure the safe."
+    },
+    "Safe Storm III": {
+        "mode": "Heist",
+        "description": "Stormy terrain with swirling wind zones and narrow paths to the safe.",
+        "recommendedBrawlers": [
+            "Gale",
+            "Pam",
+            "Fang",
+            "Belle"
+        ],
+        "strategy": "Control mid with knockback and healing. Use supers to trap defenders near the safe and rotate through gusty flanks."
+    },
+    "Vault Horizon III": {
+        "mode": "Heist",
+        "description": "Sky-themed layout with floating platforms and open sightlines.",
+        "recommendedBrawlers": [
+            "Brock",
+            "Surge",
+            "Max",
+            "Bo"
+        ],
+        "strategy": "Use long-range poke and speed to dominate open lanes. Break sky barriers and rotate through aerial paths to reach the safe."
+    },
+    "Safe Grove III": {
+        "mode": "Heist",
+        "description": "Forest-themed layout with symmetrical terrain and layered brush zones.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Gus",
+            "Cordelius",
+            "Barley"
+        ],
+        "strategy": "Control brush zones with vision and splash. Rotate through mirrored paths and bait defenders near the safe."
+    },
+    "Vault Echo IV": {
+        "mode": "Heist",
+        "description": "Echo-themed layout with symmetrical lanes and a safe surrounded by brush.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Colt",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control mid with healing and chip damage. Rotate through flanks and use supers to trap defenders near the safe."
+    },
+    "Vault Blaze IV": {
+        "mode": "Heist",
+        "description": "Refined fire-themed layout with lava pits and layered terrain near the safe.",
+        "recommendedBrawlers": [
+            "Barley",
+            "Buzz",
+            "Spike",
+            "Colt"
+        ],
+        "strategy": "Use splash and stun to control fiery corridors. Break lava walls early and rotate through heated flanks to pressure the safe."
+    },
+    "Safe Storm IV": {
+        "mode": "Heist",
+        "description": "Stormy terrain with swirling wind zones and narrow paths to the safe.",
+        "recommendedBrawlers": [
+            "Gale",
+            "Pam",
+            "Fang",
+            "Belle"
+        ],
+        "strategy": "Control mid with knockback and healing. Use supers to trap defenders near the safe and rotate through gusty flanks."
+    },
+    "Vault Horizon IV": {
+        "mode": "Heist",
+        "description": "Sky-themed layout with floating platforms and open sightlines.",
+        "recommendedBrawlers": [
+            "Brock",
+            "Surge",
+            "Max",
+            "Bo"
+        ],
+        "strategy": "Use long-range poke and speed to dominate open lanes. Break sky barriers and rotate through aerial paths to reach the safe."
+    },
+    "Safe Grove IV": {
+        "mode": "Heist",
+        "description": "Forest-themed layout with symmetrical terrain and layered brush zones.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Gus",
+            "Cordelius",
+            "Barley"
+        ],
+        "strategy": "Control brush zones with vision and splash. Rotate through mirrored paths and bait defenders near the safe."
+    },
+    "Vault Echo V": {
+        "mode": "Heist",
+        "description": "Echo-themed layout with symmetrical lanes and a safe surrounded by brush.",
+        "recommendedBrawlers": [
+            "Pam",
+            "Colt",
+            "Bo",
+            "Ash"
+        ],
+        "strategy": "Control mid with healing and chip damage. Rotate through flanks and use supers to trap defenders near the safe."
+    },
+    "Ring of Fire": {
+        "mode": "Hot Zone",
+        "description": "Classic circular zone layout with open mid and bushy flanks.",
+        "recommendedBrawlers": [
+            "EMZ",
+            "Spike",
+            "Pam",
+            "Bo"
+        ],
+        "strategy": "Control the center with splash and chip damage. Use vision tools to deny flanks and rotate to zone resets."
+    },
+    "Parallel Plays": {
+        "mode": "Hot Zone",
+        "description": "Side-by-side zones with mirrored flanks and central wall cluster.",
+        "recommendedBrawlers": [
+            "Pam",
+            "EMZ",
+            "Bo",
+            "Buzz"
+        ],
+        "strategy": "Control both zones with splash and healing. Rotate through mid and trap enemies in choke points."
+    },
+    "Open Zone": {
+        "mode": "Hot Zone",
+        "description": "Wide open layout with a single central zone and minimal cover.",
+        "recommendedBrawlers": [
+            "Belle",
+            "Spike",
+            "Surge",
+            "Janet"
+        ],
+        "strategy": "Use long-range poke and mobility to dominate mid. Deny zone access with supers and chip damage."
+    },
+    "Split Zone": {
+        "mode": "Hot Zone",
+        "description": "Two zones separated by walls and bush-heavy flanks.",
+        "recommendedBrawlers": [
+            "Gus",
+            "Bo",
+            "Cordelius",
+            "EMZ"
+        ],
+        "strategy": "Control vision and rotate between zones. Use splash and invisibility to pressure grouped enemies."
+    },
+    "Zone Control": {
+        "mode": "Hot Zone",
+        "description": "Symmetrical layout with two zones separated by central walls and bushy flanks.",
+        "recommendedBrawlers": [
+            "Gale",
+            "EMZ",
+            "Bo",
+            "Cordelius"
+        ],
+        "strategy": "Control mid with splash and knockback. Rotate between zones and use vision tools to deny flanks."
+    },
+    "Core Collapse": {
+        "mode": "Hot Zone",
+        "description": "Volcanic-themed map with a single central zone and layered terrain.",
+        "recommendedBrawlers": [
+            "Spike",
+            "Pam",
+            "Surge",
+            "Buzz"
+        ],
+        "strategy": "Dominate center with chip damage and healing. Break cover to expose enemies and rotate through lava lanes."
+    },
+    "Twin Turrets": {
+        "mode": "Hot Zone",
+        "description": "Two zones guarded by wall clusters and narrow corridors.",
+        "recommendedBrawlers": [
+            "Barley",
+            "Bo",
+            "Gus",
+            "Max"
+        ],
+        "strategy": "Use splash and vision to control choke points. Rotate quickly between zones and trap grouped enemies."
+    },
+    "Zone Spiral": {
+        "mode": "Hot Zone",
+        "description": "Spiral-shaped terrain with rotating lanes and a central zone.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "EMZ",
+            "Bo",
+            "Buzz"
+        ],
+        "strategy": "Control spiral turns with splash and invisibility. Rotate through mirrored paths and bait supers near the zone."
+    },
+    "Brush Barrage": {
+        "mode": "Hot Zone",
+        "description": "Brush-heavy layout with two zones and layered cover.",
+        "recommendedBrawlers": [
+            "Sandy",
+            "Bo",
+            "Gale",
+            "Pam"
+        ],
+        "strategy": "Use vision gadgets and healing to dominate zone fights. Rotate through brush and deny grouped pushes."
+    },
+    "Shooting Star": {
+        "mode": "Bounty",
+        "description": "Open layout with long sightlines and minimal cover.",
+        "recommendedBrawlers": [
+            "Piper",
+            "Belle",
+            "Brock",
+            "Surge"
+        ],
+        "strategy": "Dominate mid with long-range poke. Rotate through flanks and use supers to secure star leads."
+    },
+    "Dry Season": {
+        "mode": "Bounty",
+        "description": "Bush-heavy terrain with layered cover and a central star spawn.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Tick",
+            "Sandy",
+            "Cordelius"
+        ],
+        "strategy": "Use vision gadgets and splash to control bushes. Rotate through flanks and trap grouped enemies."
+    },
+    "Canal Grande": {
+        "mode": "Bounty",
+        "description": "Water-themed layout with narrow bridges and bushy flanks.",
+        "recommendedBrawlers": [
+            "Leon",
+            "Bo",
+            "Gus",
+            "EMZ"
+        ],
+        "strategy": "Control bridges with splash and invisibility. Rotate through flanks and bait supers near star zones."
+    },
+    "Snake Prairie": {
+        "mode": "Bounty",
+        "description": "Brush-filled map with hidden paths and a central star spawn.",
+        "recommendedBrawlers": [
+            "Bo",
+            "Leon",
+            "Sandy",
+            "Gus"
+        ],
+        "strategy": "Use vision and invisibility to dominate hidden zones. Rotate through brush and deny grouped pushes."
+    },
+    "Starry Showdown": {
+        "mode": "Bounty",
+        "description": "Celestial-themed layout with layered terrain and a central star spawn.",
+        "recommendedBrawlers": [
+            "Piper",
+            "Belle",
+            "Bo",
+            "Leon"
+        ],
+        "strategy": "Control mid with snipers and vision. Rotate through flanks and use invisibility to pressure grouped enemies."
+    },
+    "Brush Blitz": {
+        "mode": "Bounty",
+        "description": "Brush-heavy terrain with narrow paths and hidden star zones.",
+        "recommendedBrawlers": [
+            "Sandy",
+            "Bo",
+            "Cordelius",
+            "Tick"
+        ],
+        "strategy": "Use vision gadgets and splash to dominate hidden zones. Rotate through brush and bait supers near star spawn."
+    },
+    "Star Spiral": {
+        "mode": "Bounty",
+        "description": "Spiral-shaped layout with rotating lanes and a central star.",
+        "recommendedBrawlers": [
+            "Leon",
+            "Bo",
+            "EMZ",
+            "Buzz"
+        ],
+        "strategy": "Control spiral turns with invisibility and splash. Rotate through mirrored paths and trap enemies near the star."
+    },
+    "Sniper's Ridge": {
+        "mode": "Bounty",
+        "description": "Elevated terrain with long sightlines and minimal cover.",
+        "recommendedBrawlers": [
+            "Piper",
+            "Belle",
+            "Brock",
+            "Surge"
+        ],
+        "strategy": "Dominate mid with long-range poke. Use supers to secure star leads and rotate through sniper lanes."
+    },
+    "Star Mirage": {
+        "mode": "Bounty",
+        "description": "Illusion-themed layout with mirrored lanes and hidden brush zones.",
+        "recommendedBrawlers": [
+            "Cordelius",
+            "Sandy",
+            "Bo",
+            "Leon"
+        ],
+        "strategy": "Use invisibility and vision gadgets to dominate hidden zones. Rotate through mirrored paths and bait supers near the star."
+    },
+    "Dark Passage": {
+        "mode": "Showdown",
+        "description": "Brush-heavy terrain with narrow corridors and central cube clusters.",
+        "recommendedBrawlers": [
+            "Leon",
+            "Bo",
+            "Sandy",
+            "Buzz"
+        ],
+        "strategy": "Use invisibility and vision gadgets to control bushes. Rotate through corridors and ambush grouped enemies."
+    },
+    "Scorched Stone": {
+        "mode": "Showdown",
+        "description": "Open layout with scattered cover and wide flanks.",
+        "recommendedBrawlers": [
+            "Surge",
+            "Spike",
+            "Max",
+            "Pam"
+        ],
+        "strategy": "Use speed and chip damage to control mid. Rotate through flanks and deny cube pickups with splash."
+    },
+    "Cavern Churn": {
+        "mode": "Showdown",
+        "description": "Maze-like terrain with layered walls and central cube clusters.",
+        "recommendedBrawlers": [
+            "Bull",
+            "Buzz",
+            "EMZ",
+            "Bo"
+        ],
+        "strategy": "Control corridors with stun and splash. Rotate through maze paths and trap enemies near cube spawns."
+    }
+}
