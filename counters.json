@@ -1,0 +1,482 @@
+{
+    "Shelly": {
+        "counters": [
+            "Crow",
+            "Spike",
+            "Leon"
+        ],
+        "strategy": "Use ranged poke and mobility to avoid her super burst. Force her out of bushes and bait her super early."
+    },
+    "Nita": {
+        "counters": [
+            "Gale",
+            "Lou",
+            "EMZ"
+        ],
+        "strategy": "Zone her and defeat Bruce quickly. Keep distance and break her momentum with splash or crowd control."
+    },
+    "Colt": {
+        "counters": [
+            "Surge",
+            "Max",
+            "Mortis"
+        ],
+        "strategy": "Flank him with mobility or burst him from cover. Avoid long sightlines and punish reload downtime."
+    },
+    "Bull": {
+        "counters": [
+            "Bea",
+            "Gale",
+            "Tick"
+        ],
+        "strategy": "Control bushes and chip him down before he closes in. Use knockback or traps to deny his rush potential."
+    },
+    "Jessie": {
+        "counters": [
+            "Meg",
+            "Piper",
+            "Belle"
+        ],
+        "strategy": "Take out her turret early and overwhelm her range. Bait bounces and play from open lanes."
+    },
+    "Brock": {
+        "counters": [
+            "Mortis",
+            "Surge",
+            "Max"
+        ],
+        "strategy": "Force him into close fights and disrupt his pacing. Dodge rockets and push aggressively once reloads are low."
+    },
+    "Dynamike": {
+        "counters": [
+            "Mortis",
+            "Edgar",
+            "Buzz"
+        ],
+        "strategy": "Rush and dodge his throws. Avoid corners and punish lack of vision or escape tools."
+    },
+    "Bo": {
+        "counters": [
+            "Crow",
+            "Gene",
+            "Belle"
+        ],
+        "strategy": "Break his mines and control the mid-zone. Use poke and mobility to force him off lanes."
+    },
+    "Tick": {
+        "counters": [
+            "Mortis",
+            "Crow",
+            "Fang"
+        ],
+        "strategy": "Dive him early and avoid chip zones. Punish long reload and force him to waste mines."
+    },
+    "8-Bit": {
+        "counters": [
+            "Surge",
+            "Mortis",
+            "Stu"
+        ],
+        "strategy": "Break his damage turret and use speed to outmaneuver him. He’s slow—punish rotations and flank angles."
+    },
+    "EMZ": {
+        "counters": [
+            "Mortis",
+            "Edgar",
+            "Buzz"
+        ],
+        "strategy": "Rush her before she controls spacing. Bait super and ignore her slow healing over time."
+    },
+    "El Primo": {
+        "counters": [
+            "Gale",
+            "Bea",
+            "Lou"
+        ],
+        "strategy": "Use knockback, slow, and ranged poke to deny his close-range damage. Stay out of bushes and bait his super."
+    },
+    "Barley": {
+        "counters": [
+            "Mortis",
+            "Edgar",
+            "Buzz"
+        ],
+        "strategy": "Rush Barley before he sets up zone control. Use gap closers and punish his limited vision and reload."
+    },
+    "Poco": {
+        "counters": [
+            "Gene",
+            "Belle",
+            "Bo"
+        ],
+        "strategy": "Pressure him early and interrupt his healing rhythm. Destroy grouped pushes and pick off allies first."
+    },
+    "Rosa": {
+        "counters": [
+            "Gale",
+            "EMZ",
+            "Bea"
+        ],
+        "strategy": "Avoid close-range duels and punish her shield phase with chip and zoning. Deny bush control aggressively."
+    },
+    "Carl": {
+        "counters": [
+            "Sandy",
+            "Bibi",
+            "Surge"
+        ],
+        "strategy": "Outmaneuver his predictable pickaxe and dodge linear supers. Bait him into walls or unfavorable terrain."
+    },
+    "Jacky": {
+        "counters": [
+            "Belle",
+            "Bea",
+            "Squeak"
+        ],
+        "strategy": "Maintain spacing and zone her from advancing. Use walls to avoid her AoE cone and punish movement cooldown."
+    },
+    "Gus": {
+        "counters": [
+            "Crow",
+            "Buzz",
+            "Gene"
+        ],
+        "strategy": "Interrupt his healing cycles and pet synergy. Punish long animations and chip from safe angles."
+    },
+    "Piper": {
+        "counters": [
+            "Mortis",
+            "Surge",
+            "Max"
+        ],
+        "strategy": "Close the gap quickly and disrupt her aim. She's lethal at range, but vulnerable to burst and flankers."
+    },
+    "Pam": {
+        "counters": [
+            "Belle",
+            "Spike",
+            "Buzz"
+        ],
+        "strategy": "Burst her before she sets up healing zone. Destroy her turret and isolate her from grouped allies."
+    },
+    "Frank": {
+        "counters": [
+            "EMZ",
+            "Crow",
+            "Bea"
+        ],
+        "strategy": "Interrupt his long wind-up attacks and avoid clustering. Use knockback, poison, or slow to deny supers."
+    },
+    "Bibi": {
+        "counters": [
+            "Belle",
+            "Gale",
+            "Spike"
+        ],
+        "strategy": "Zone her from approach angles and punish missed swings. Use range or slow mechanics to kite her."
+    },
+    "Bea": {
+        "counters": [
+            "Mortis",
+            "Surge",
+            "Fang"
+        ],
+        "strategy": "Rush her down before her supercharged shot lands. Bait shots and punish her reload downtime."
+    },
+    "Nani": {
+        "counters": [
+            "Mortis",
+            "Max",
+            "Crow"
+        ],
+        "strategy": "Break line of sight and avoid Peep tracking. Flank her and disrupt her precision with mobility."
+    },
+    "Edgar": {
+        "counters": [
+            "EMZ",
+            "Gale",
+            "Buzz"
+        ],
+        "strategy": "Punish his landing and deny healing loops. Space out and control jump zones before he engages."
+    },
+    "Mortis": {
+        "counters": [
+            "EMZ",
+            "Gale",
+            "Bea"
+        ],
+        "strategy": "Zone him out and punish his dash cooldowns. Crowd control and rapid chip damage will neutralize his flanking potential."
+    },
+    "Tara": {
+        "counters": [
+            "Sprout",
+            "Gene",
+            "Sandy"
+        ],
+        "strategy": "Deny grouped engagements and punish her card spread from range. Break her shadows and avoid getting pulled near walls."
+    },
+    "Gene": {
+        "counters": [
+            "Bea",
+            "Spike",
+            "Belle"
+        ],
+        "strategy": "Out-range him and bait his pull. Focus on dodging chip damage and split targets to avoid grouped heals."
+    },
+    "Max": {
+        "counters": [
+            "Crow",
+            "Spike",
+            "Bo"
+        ],
+        "strategy": "Punish her short range with burst or persistent poison. Control her super zone and dodge her fast-paced aggression."
+    },
+    "Mr. P": {
+        "counters": [
+            "Belle",
+            "Buzz",
+            "Mortis"
+        ],
+        "strategy": "Destroy his porter spawn early and avoid clustered damage zones. Use speed and burst to shut him down before he controls mid."
+    },
+    "Sprout": {
+        "counters": [
+            "Mortis",
+            "Edgar",
+            "Surge"
+        ],
+        "strategy": "Break map walls and rush him before he creates choke zones. Avoid stacking and bait wall placements early."
+    },
+    "Byron": {
+        "counters": [
+            "Crow",
+            "Spike",
+            "Surge"
+        ],
+        "strategy": "Interrupt his long-range poke and deny healing chain effects. Punish reload delay and force unfavorable trades."
+    },
+    "Squeak": {
+        "counters": [
+            "Mortis",
+            "Surge",
+            "Max"
+        ],
+        "strategy": "Push through his splash zones quickly. Dodge sticky blobs and use mobility to neutralize his chip pressure."
+    },
+    "Gray": {
+        "counters": [
+            "Mortis",
+            "Gale",
+            "Bea"
+        ],
+        "strategy": "Interrupt his teleport cycle and bait gadget timing. Stay spread out and punish his long animations and control tools."
+    },
+    "Spike": {
+        "counters": [
+            "Crow",
+            "Sprout",
+            "Bea"
+        ],
+        "strategy": "Punish his slow movement and range limitations. Outmaneuver his area damage and pressure from outside cactus zones."
+    },
+    "Crow": {
+        "counters": [
+            "EMZ",
+            "Bea",
+            "Gene"
+        ],
+        "strategy": "Dodge his jump and poison chip by spreading out. Interrupt his burst and control zones with crowd control or healing."
+    },
+    "Leon": {
+        "counters": [
+            "Bo",
+            "EMZ",
+            "Sandy"
+        ],
+        "strategy": "Track his invisibility with vision gadgets. Deny flanks with map awareness and burst him quickly if revealed."
+    },
+    "Sandy": {
+        "counters": [
+            "Spike",
+            "Gale",
+            "Tara"
+        ],
+        "strategy": "Clear his sandstorm with ranged poke or supers. Stay spread to avoid his splash and control mid-lane."
+    },
+    "Meg": {
+        "counters": [
+            "Surge",
+            "Crow",
+            "Mortis"
+        ],
+        "strategy": "Punish her vulnerable phase and interrupt her transformation. Zone her mech from positioning dominance."
+    },
+    "Gale": {
+        "counters": [
+            "Crow",
+            "Bea",
+            "Belle"
+        ],
+        "strategy": "Keep distance and punish his short-range cone. Bait knockback and avoid getting caught near walls or portals."
+    },
+    "Surge": {
+        "counters": [
+            "Crow",
+            "Bea",
+            "Belle"
+        ],
+        "strategy": "Disrupt his upgrade progress early. Pressure him before Stage 3 and deny lane control with range or poison."
+    },
+    "Lou": {
+        "counters": [
+            "Byron",
+            "Spike",
+            "EMZ"
+        ],
+        "strategy": "Avoid frozen zones and chip him from outside his splash radius. Rotate quickly to dodge terrain slowdown."
+    },
+    "Ruffs": {
+        "counters": [
+            "Crow",
+            "Sprout",
+            "Gene"
+        ],
+        "strategy": "Break cover and eliminate his supply chain. Focus on zoning his super and targeting his squishy allies."
+    },
+    "Belle": {
+        "counters": [
+            "Bo",
+            "Gale",
+            "Tick"
+        ],
+        "strategy": "Control her lane with splash or close-range burst. Watch for marked targets and prioritize gadget dodge."
+    },
+    "Buzz": {
+        "counters": [
+            "EMZ",
+            "Gale",
+            "Crow"
+        ],
+        "strategy": "Avoid stun zones and deny bushes. Bait his super charge and kite him into open terrain."
+    },
+    "Ash": {
+        "counters": [
+            "Spike",
+            "Bea",
+            "Belle"
+        ],
+        "strategy": "Zone him out and break his rage cycle early. Dodge swarm and punish him post-super cooldown."
+    },
+    "Lola": {
+        "counters": [
+            "Crow",
+            "Gene",
+            "Spike"
+        ],
+        "strategy": "Pressure her copy range and punish overlapping fire. Bait clone gadget and force her into tight corners."
+    },
+    "Fang": {
+        "counters": [
+            "Gale",
+            "EMZ",
+            "Crow"
+        ],
+        "strategy": "Disrupt his super chain early. Control space and dodge his dash openings with knockback or slow."
+    },
+    "Eve": {
+        "counters": [
+            "Mortis",
+            "Buzz",
+            "Crow"
+        ],
+        "strategy": "Destroy hatchlings quickly and use mobility to interrupt her spacing tools. Track her super flight path."
+    },
+    "Janet": {
+        "counters": [
+            "Crow",
+            "Spike",
+            "Gale"
+        ],
+        "strategy": "Punish her early wind-up and chip her from range. Avoid super splash and bait aerial gadget."
+    },
+    "Otis": {
+        "counters": [
+            "Crow",
+            "Gene",
+            "Fang"
+        ],
+        "strategy": "Avoid his silence gadget and rotate during splash cycles. Break terrain control and target him before super builds."
+    },
+    "Maisie": {
+        "counters": [
+            "Mortis",
+            "Surge",
+            "Crow"
+        ],
+        "strategy": "Flank her through terrain gaps and bait out her knockback. Pressure her cooldowns before she stuns safely."
+    },
+    "Hank": {
+        "counters": [
+            "Crow",
+            "Surge",
+            "Buzz"
+        ],
+        "strategy": "Rush him before bubble buildup. Use gadgets to deny his splash spread and push him off lane pressure."
+    },
+    "Cordelius": {
+        "counters": [
+            "Gale",
+            "EMZ",
+            "Crow"
+        ],
+        "strategy": "Break his shroom cycle and avoid silence zones. Use mobility and vision to beat his alternate reality setup."
+    },
+    "Doug": {
+        "counters": [
+            "Crow",
+            "Bea",
+            "Gene"
+        ],
+        "strategy": "Eliminate allies before he engages, and bait his revive timing. Punish cooldowns and split spacing in team fights."
+    },
+    "Pearl": {
+        "counters": [
+            "Mortis",
+            "Surge",
+            "Max"
+        ],
+        "strategy": "Flank her before heat builds up. Dodge cone blasts and interrupt overheat explosions with quick combos."
+    },
+    "Chuck": {
+        "counters": [
+            "Gale",
+            "Crow",
+            "Sandy"
+        ],
+        "strategy": "Block his dash markers and interrupt chain mobility. Control the field and bait phantom movement."
+    },
+    "Mico": {
+        "counters": [
+            "Crow",
+            "Mortis",
+            "Gale"
+        ],
+        "strategy": "Interrupt his rhythm cycles and control splash distance. Dodge gadget stun and bait tempo super."
+    },
+    "Alli": {
+        "counters": [
+            "Belle",
+            "Crow",
+            "Spike"
+        ],
+        "strategy": "Clear her pet pathing and keep distance from her burst. Deny tank engagements and rotate quickly around swamp zones."
+    },
+    "Rico": {
+        "counters": [
+            "Mortis",
+            "Surge",
+            "Max"
+        ],
+        "strategy": "Flank him to avoid his ricochet damage. Use mobility to dodge his shots and punish reload downtime."
+    }
+}
